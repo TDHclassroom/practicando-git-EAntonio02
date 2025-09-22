@@ -1,4 +1,4 @@
 # Changelog
-
-## v1.0.0
-- Proyecto Inicial
+   
+   ## v1.0.0
+   - Proyecto inicial
