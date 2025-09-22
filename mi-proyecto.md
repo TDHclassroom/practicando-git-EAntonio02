@@ -2,5 +2,4 @@
 ## Características
 
 - Mi proyecto Git
-- Este es un proyecto con Git paso a paso
-
+- Aprendiendo Git paso a paso
